@@ -1,0 +1,95 @@
+# Aria Omidi
+# CPS109
+# Translator English-Frisian and Frisian-English
+
+Improvements
+1.I chose different domains
+2.I chose Frisian language
+3.I increased the vocabulary to 117 words(Step1)
+4.I added comments
+5.I fixed the glitch of two periods
+6.I wrote reverseDictionary function(Step 2)
+7.I added two more dictionaries in order to improve the translations(Step1 and Step2)
+8.I put my pre recorded sentences as a list and I wrote two functions to print it properly(Step5 and Step6)
+9.I also used recursive functions to translate in both languages(Step3 and Step4)
+
+
+
+
+Length of all dictionaries: 117
+
+----------------English to Frisian translation----------------
+
+--------------------------------------
+Input: Traffic jam occurs when movement of vehicles is hampered at a particular place for some reasons over a certain period of time. 
+
+Output: Ferkear jam optreedt wannear beweging fan weinen is hindere by in beskaat plak foar guon redenen oer in beskaat perioade fan tiid .
+--------------------------------------
+--------------------------------------
+Input: If the number of vehicles plying on a street or road is increased than the maximum capacity it is build to sustain, it results in traffic jams. 
+
+Output: As de nûmer fan weinen pleagje op in strjitte of wei is ferhege as de maksimum kapasiteit it is bouwe nei folhâlde ,it resultaten yn ferkear jam .
+--------------------------------------
+--------------------------------------
+Input: Traffic jam or traffic congestion is an everyday affair in big cities. 
+
+Output: Ferkear jam of ferkear oerlêst is an eltse-dei affêre yn grut stêden .
+--------------------------------------
+--------------------------------------
+Input: It is the result of growing population and the increase in use of personal, public as well as commercial transport vehicle is an everyday affair in big cities. 
+
+Output: It is de resultaat fan groeie befolking en de tanimme yn brûke fan persoanlik ,iepenbier as goed as kommersjeel ferfier "vehicle" is an eltse-dei affêre yn grut stêden .
+--------------------------------------
+--------------------------------------
+Input: It is the result of growing population and the increase in use of personal, public as well as commercial transport vehicles. 
+
+Output: It is de resultaat fan groeie befolking en de tanimme yn brûke fan persoanlik ,iepenbier as goed as kommersjeel ferfier weinen .
+--------------------------------------
+--------------------------------------
+Input: The congestion mostly occurs on the main roads during peak hours when people commute to work or on their way back home. 
+
+Output: De oerlêst meast optreedt op de foarnaamste wegen tidens peak oeren wannear folk pendelje nei wurk of op harren wei rêch thús .
+--------------------------------------
+--------------------------------------
+Input: But there is no fix time and an unprecedented surge in the number of vehicles on roads have made traffic jams anytime affair. 
+
+Output: Mar dêr is Nee meitsje tiid en an ongekend surge yn de nûmer fan weinen op wegen hawwe makke ferkear jam wannear-dan-ek affêre .
+--------------------------------------
+--------------------------------------
+Input: The Industrial development in the recent years has only aided to the problem of traffic jam by increasing number of on road transport vehicles. 
+
+Output: De Yndustrieel ûntwikkeling yn de resint jierren hat allinnich holpen nei de probleem fan ferkear jam troch tanimmend nûmer fan op wei ferfier weinen .
+--------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+----------------Frisian to English translation----------------
+
+--------------------------------------
+Input: Ik drinke goede reade wyn en yt brea. 
+
+Output: I drink good red wine and eat bread .
+--------------------------------------
+--------------------------------------
+Input: Ik oersliep dat Ik wie let nei skoalle. 
+
+Output: I overslept so I was late to school .
+--------------------------------------
+--------------------------------------
+Input: Ik bin in folslein lokkich minske! 
+
+Output: I am a totally happy person !
+--------------------------------------
+--------------------------------------
+Input: Tom lykje nei wêze dwaan neat hjoed. 
+
+Output: Tom seems to be doing nothing today .
+--------------------------------------
+--------------------------------------
+Input: Ferkear jam of ferkear oerlêst is an eltse-dei affêre yn grut stêden 
+
+Output: Traffic jam or traffic congestion is an everyday affair in big cities 
+--------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
